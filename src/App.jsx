@@ -120,7 +120,7 @@ function AboutMeBack() {
 
         <div className="aboutme-content">
           <span className='tentang'>Tokoh Fav</span>
-          <p>Na Jaemin & Lee Donghyuck from NCT </p>
+          <p>Na Jaemin, Lee Donghyuck & Lee Jeno from NCT </p>
         </div>
 
         <div className="aboutme-content">
